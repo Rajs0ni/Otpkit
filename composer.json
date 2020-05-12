@@ -1,0 +1,29 @@
+{
+  "name": "rytescube/otpkit",
+  "description": "Laravel package to generate otp or one time password",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Raj Soni",
+      "email": "rajsoni168@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Rytescube\\Otpkit\\": "src/"
+    }
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Rytescube\\Otpkit\\OtpServiceProvider"
+      ],
+      "aliases": {
+        "Otp": "Rytescube\\Otpkit\\Otp"
+      }
+    }
+  }
+}
