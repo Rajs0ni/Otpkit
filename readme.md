@@ -1,9 +1,12 @@
 
 # Laravel OTP
+
+[![Latest Stable Version](https://poser.pugx.org/rytescube/otpkit/v/stable)](https://packagist.org/packages/rytescube/otpkit)
 [![Total Downloads](https://poser.pugx.org/rytescube/otpkit/downloads)](https://packagist.org/packages/rytescube/otpkit)
 [![License](https://poser.pugx.org/rytescube/otpkit/license)](https://packagist.org/packages/rytescube/otpkit)
 [![Issues](https://img.shields.io/github/issues/Rajs0ni/otpkit.svg?style=flat-square)](https://github.com/Rajs0ni/Otpkit/issues)
-[![Issues](https://img.shields.io/github/stars/Rajs0ni/otpkit.svg?style=flat-square)](https://github.com/Rajs0ni/Otpkit/stargazers)
+[![Stars](https://img.shields.io/github/stars/Rajs0ni/otpkit.svg?style=flat-square)](https://github.com/Rajs0ni/Otpkit/stargazers)
+
 
 Laravel package to generate otp or one time password.
 
